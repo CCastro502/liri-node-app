@@ -119,7 +119,6 @@ function standard() {
         
         d = data.split(",")[0];
         e = data.split(",")[1].split(" ");
-        console.log(d, e);
         music();
       });
 }
